@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**Cl4nyz/Cl4nyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Yan Oliveira 👋
 
-Here are some ideas to get you started:
+## I'm an undergraduate in computer engineering at Unicamp
+* My most used and liked programming languages are Python and C++
+  * I also have experience in C, Java, Godot, RISC-V assembly, and SQL
+* Currently studying software engineering and algorithm analysis
+* AI enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+#### My Github Stats:
+
+![Cl4nyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cl4nyz&show_icons=true&theme=moltack&locale&hide_border=true&hide)
+
+### Linguagens e Tecnologias utilizadas:
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,godot,git,postgres&perline=8)](https://skillicons.dev)
