@@ -3,7 +3,7 @@
 
 ## I'm an undergraduate student in computer engineering at Unicamp
 * My most used and liked programming languages are Python and C++
-  * I also have experience in C, Java, Godot, RISC-V assembly, and SQL
+* I also have experience in C, Java, Godot, RISC-V assembly, and SQL
 * Currently studying software engineering and algorithm analysis
 * AI enthusiast
 
