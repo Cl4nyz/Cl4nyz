@@ -12,5 +12,5 @@
 
 ![Cl4nyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cl4nyz&show_icons=true&theme=moltack&locale&hide_border=true&hide)
 
-### Linguagens e Tecnologias utilizadas:
+### Used languages and technologies:
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,java,godot,git,postgres&perline=8)](https://skillicons.dev)
