@@ -1,15 +1,14 @@
 
-### Hello, I'm Yan Oliveira 👋
+# Hi I'm Yan 👋
 
-## I'm an undergraduate student in computer engineering at Unicamp
-* My most used and liked programming languages are Python and C++
-* I also have experience in C, Java, Godot, RISC-V assembly, and SQL
-* Currently studying AI, in special Machine Learning and Deep Learning
+[![Linkedin Badge](https://img.shields.io/badge/yan-os-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-os/)](https://www.linkedin.com/in/yan-os/)
+[![Website Badge](https://img.shields.io/badge/-Yan%20Oliveira-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.students.ic.unicamp.br/~ra236363/)](https://www.students.ic.unicamp.br/~ra236363/)
 
-##
-#### My Github Stats:
+Welcome to my profile! I'm a student at Unicamp, currently researching the Optimum-Path Forest algorithm @ LIDS Unicamp. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yan-os/)!
 
-![Cl4nyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cl4nyz&show_icons=true&theme=moltack&locale&hide_border=true&hide)
+### I've already written code with/for:
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,c,cpp,java,spring,angular,react,postman,rabbitmq,godot,git,postgres,bots,androidstudio,flutter,latex,ros,arduino,vscode&perline=8)](https://skillicons.dev)
 
-### Used languages and technologies:
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,godot,git,postgres&perline=8)](https://skillicons.dev)
+![](https://github.com/Cl4nyz/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/Cl4nyz/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
