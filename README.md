@@ -10,6 +10,6 @@ Welcome to my profile! I'm a student at Unicamp, currently researching the Optim
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,c,cpp,java,spring,angular,react,postman,rabbitmq,godot,git,postgres,bots,androidstudio,flutter,latex,ros,arduino,vscode&perline=10)](https://skillicons.dev)
 
 ### What's going on:
-![](https://github.com/Cl4nyz/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/Cl4nyz/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+![Overview](https://github.com/Cl4nyz/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![Languages](https://github.com/Cl4nyz/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 Created by [`jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
